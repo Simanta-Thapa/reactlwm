@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/reactlwm/static/css/main.e6dfca86.css",
+    "main.js": "/reactlwm/static/js/main.763b8cd6.js",
+    "static/js/787.4e1a2eac.chunk.js": "/reactlwm/static/js/787.4e1a2eac.chunk.js",
+    "static/media/homesectionfirstimage.webp": "/reactlwm/static/media/homesectionfirstimage.400759caa219e8de0de7.webp",
+    "static/media/ourteampic2.webp": "/reactlwm/static/media/ourteampic2.97d2bc1ff724372ce1c1.webp",
+    "static/media/ourteampic3.webp": "/reactlwm/static/media/ourteampic3.7dca323ee30a62179e92.webp",
+    "static/media/ourteampic1.webp": "/reactlwm/static/media/ourteampic1.71c337faf39aad4f6c5b.webp",
+    "static/media/homesectionthirdimage.webp": "/reactlwm/static/media/homesectionthirdimage.8a2d0cfcd4038868a50e.webp",
+    "static/media/lwm_logo_white.svg": "/reactlwm/static/media/lwm_logo_white.16306cc10c0aee388999a0c699e9a67e.svg",
+    "static/media/ourteampic4.webp": "/reactlwm/static/media/ourteampic4.4145dd536cd9c6aa3926.webp",
+    "index.html": "/reactlwm/index.html",
+    "main.e6dfca86.css.map": "/reactlwm/static/css/main.e6dfca86.css.map",
+    "main.763b8cd6.js.map": "/reactlwm/static/js/main.763b8cd6.js.map",
+    "787.4e1a2eac.chunk.js.map": "/reactlwm/static/js/787.4e1a2eac.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6dfca86.css",
+    "static/js/main.763b8cd6.js"
+  ]
+}
